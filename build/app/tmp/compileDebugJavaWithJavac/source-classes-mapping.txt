@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/zed/nintynine_beautifulnames/BuildConfig.java
+ com.zed.nintynine_beautifulnames.BuildConfig
