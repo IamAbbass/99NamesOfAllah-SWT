@@ -2,7 +2,7 @@
     package="com.zed.nintynine_beautifulnames">
    <application
         android:label="nintynine_beautifulnames"
-        android:name="${applicationName}"
+        android:name="99 Names of Allah (SWT) and Muhammed (SA)"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

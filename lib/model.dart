@@ -1,3 +1,6 @@
+import 'dart:convert';
+import 'package:flutter/foundation.dart';
+
 class BeautifulName {
   final int id;
   final String name_ar;
@@ -10,10 +13,12 @@ class BeautifulName {
     required this.name_en,
     required this.meaning,
   });
+
+  factory BeautifulName.fromJson(Map<String, dynamic> json) {
+    return BeautifulName(
+        id: json['id'] as int,
+        name_ar: json['name_ar'] as String,
+        name_en: json['name_en'] as String,
+        meaning: json['meaning'] as String);
+  }
 }
-
-
-
-
-
-

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:nintynine_beautifulnames/name_list.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,7 +14,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: '99 Beautiful Names',
       theme: ThemeData(
-        primarySwatch: Colors.green,
+        primarySwatch: Colors.orange,
+        brightness: Brightness.dark
       ),
       home: const MyHomePage(title: '99 Beautiful Names'),
       debugShowCheckedModeBanner: false,
@@ -50,7 +52,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 // ),
                 onPressed: () {
                   // Navigator.pop(context);
-                  // Navigator.push(context,MaterialPageRoute(builder: (BuildContext context) => ForgotPasswordPage()));
+                  Navigator.push(context,MaterialPageRoute(builder: (BuildContext context) => NameListPage(type: 1)));
                 },
                 child: Container(
                   padding: EdgeInsets.all(12),
@@ -110,8 +112,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 //   backgroundColor: MaterialStateProperty.all<Color>(themeColorLight),
                 // ),
                 onPressed: () {
-                  // Navigator.pop(context);
-                  // Navigator.push(context,MaterialPageRoute(builder: (BuildContext context) => ForgotPasswordPage()));
+                  Navigator.push(context,MaterialPageRoute(builder: (BuildContext context) => NameListPage(type: 2)));
                 },
                 child: Container(
                   padding: EdgeInsets.all(12),
