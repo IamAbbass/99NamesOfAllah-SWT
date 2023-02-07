@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nintynine_beautifulnames/name_list.dart';
+import 'package:nintyninebeautifulnames/name_list.dart';
 
 void main() {
   runApp(const MyApp());

@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.zed.nintynine_beautifulnames">
+    package="com.zed.ninetyninebeautifulnames">
    <application
-        android:label="nintynine_beautifulnames"
-        android:name="99 Names of Allah (SWT) and Muhammed (SA)"
+        android:label="ninetyninebeautifulnames"
+        android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

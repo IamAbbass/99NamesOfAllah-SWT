@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'dart:convert';
 
-import 'package:nintynine_beautifulnames/model.dart';
+import 'package:ninetyninebeautifulnames/model.dart';
 
 class NameListPage extends StatefulWidget {
   const NameListPage({Key? key, required this.type}) : super(key: key);

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/nintynine_beautifulnames/nintynine_beautifulnames.iml" filepath="$PROJECT_DIR$/nintynine_beautifulnames/nintynine_beautifulnames.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ninetyninebeautifulnames.iml" filepath="$PROJECT_DIR$/ninetyninebeautifulnames.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/ninetyninebeautifulnames_android.iml" filepath="$PROJECT_DIR$/android/ninetyninebeautifulnames_android.iml" />
     </modules>
   </component>
 </project>
