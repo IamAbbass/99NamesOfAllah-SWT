@@ -9,7 +9,7 @@
         android:targetSdkVersion="31" />
 
     <application
-        android:name="android.app.Application"
+        android:name="com.zed.nintynine_beautifulnames.99 Names of Allah (SWT) and Muhammed (SA)"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:icon="@mipmap/ic_launcher"
         android:label="nintynine_beautifulnames" >
