@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.zed.nintyninenames.nintyninenames">
+    package="com.zed.nintyninenames">
    <application
         android:label="nintyninenames"
         android:name="${applicationName}"

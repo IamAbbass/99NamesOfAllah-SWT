@@ -1,4 +1,4 @@
-package com.zed.nintyninenames.nintyninenames
+package com.zed.nintyninenames
 
 import io.flutter.embedding.android.FlutterActivity
 

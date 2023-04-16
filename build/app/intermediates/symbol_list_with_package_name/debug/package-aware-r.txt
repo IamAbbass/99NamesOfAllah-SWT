@@ -1,4 +1,4 @@
-com.zed.nintyninenames.nintyninenames
+com.zed.nintyninenames
 attr activityAction
 attr activityName
 attr alpha

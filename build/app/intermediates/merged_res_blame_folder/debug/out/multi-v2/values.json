@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.zed.nintyninenames.nintyninenames.app-mergeDebugResources-9:/values/values.xml",
+            "outputFile": "com.zed.nintyninenames.app-mergeDebugResources-9:/values/values.xml",
             "map": [
                 {
                     "source": "/Users/ghulamabbass/Developer/Product/99Names/android/app/src/main/res/values/styles.xml",

@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.zed.nintyninenames.nintyninenames"
+3    package="com.zed.nintyninenames"
 4    android:versionCode="1"
 5    android:versionName="1.0.0" >
 6
@@ -24,7 +24,7 @@
 21        android:icon="@mipmap/ic_launcher"
 22        android:label="nintyninenames" >
 23        <activity
-24            android:name="com.zed.nintyninenames.nintyninenames.MainActivity"
+24            android:name="com.zed.nintyninenames.MainActivity"
 25            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
 26            android:exported="true"
 27            android:hardwareAccelerated="true"

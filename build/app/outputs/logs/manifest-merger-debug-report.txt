@@ -38,7 +38,7 @@ INJECTED from /Users/ghulamabbass/Developer/Product/99Names/android/app/src/debu
 INJECTED from /Users/ghulamabbass/Developer/Product/99Names/android/app/src/debug/AndroidManifest.xml:1:1-8:12
 INJECTED from /Users/ghulamabbass/Developer/Product/99Names/android/app/src/debug/AndroidManifest.xml:1:1-8:12
 	package
-		ADDED from /Users/ghulamabbass/Developer/Product/99Names/android/app/src/main/AndroidManifest.xml:2:5-52
+		ADDED from /Users/ghulamabbass/Developer/Product/99Names/android/app/src/main/AndroidManifest.xml:2:5-37
 		INJECTED from /Users/ghulamabbass/Developer/Product/99Names/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ghulamabbass/Developer/Product/99Names/android/app/src/debug/AndroidManifest.xml
 	android:versionName
