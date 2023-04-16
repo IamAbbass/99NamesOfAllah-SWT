@@ -1,7 +1,7 @@
 [
     {
-        "merged": "com.zed.nintyninenames.app-merged_res-11:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.zed.nintyninenames.app-main-5:/mipmap-mdpi/ic_launcher.png"
+        "merged": "com.zed.nintyninenames.app-merged_res-11:/mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.zed.nintyninenames.app-main-5:/mipmap-xxhdpi/ic_launcher_adaptive_fore.png"
     },
     {
         "merged": "com.zed.nintyninenames.app-merged_res-11:/drawable-v21_launch_background.xml.flat",
@@ -12,16 +12,56 @@
         "source": "com.zed.nintyninenames.app-main-5:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
+        "merged": "com.zed.nintyninenames.app-merged_res-11:/mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.zed.nintyninenames.app-main-5:/mipmap-mdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
         "merged": "com.zed.nintyninenames.app-merged_res-11:/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "com.zed.nintyninenames.app-main-5:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.zed.nintyninenames.app-merged_res-11:/drawable_launch_background.xml.flat",
-        "source": "com.zed.nintyninenames.app-main-5:/drawable/launch_background.xml"
+        "merged": "com.zed.nintyninenames.app-merged_res-11:/mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.zed.nintyninenames.app-main-5:/mipmap-hdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.zed.nintyninenames.app-merged_res-11:/mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.zed.nintyninenames.app-main-5:/mipmap-xhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.zed.nintyninenames.app-merged_res-11:/mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.zed.nintyninenames.app-main-5:/mipmap-xxxhdpi/ic_launcher_adaptive_back.png"
     },
     {
         "merged": "com.zed.nintyninenames.app-merged_res-11:/mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "com.zed.nintyninenames.app-main-5:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.zed.nintyninenames.app-merged_res-11:/mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.zed.nintyninenames.app-main-5:/mipmap-hdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.zed.nintyninenames.app-merged_res-11:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.zed.nintyninenames.app-main-5:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.zed.nintyninenames.app-merged_res-11:/mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.zed.nintyninenames.app-main-5:/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.zed.nintyninenames.app-merged_res-11:/mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.zed.nintyninenames.app-main-5:/mipmap-xhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.zed.nintyninenames.app-merged_res-11:/mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.zed.nintyninenames.app-main-5:/mipmap-mdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.zed.nintyninenames.app-merged_res-11:/mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.zed.nintyninenames.app-main-5:/mipmap-xxhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.zed.nintyninenames.app-merged_res-11:/drawable_launch_background.xml.flat",
+        "source": "com.zed.nintyninenames.app-main-5:/drawable/launch_background.xml"
     },
     {
         "merged": "com.zed.nintyninenames.app-merged_res-11:/mipmap-hdpi_ic_launcher.png.flat",
