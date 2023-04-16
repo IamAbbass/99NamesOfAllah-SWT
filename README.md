@@ -1,4 +1,4 @@
-# ninetyninebeautifulnames
+# nintyninenames
 
 A new Flutter project.
 

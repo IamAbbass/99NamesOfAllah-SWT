@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\DC\\Desktop\\temp\\99Names\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
+            "outputFile": "com.zed.nintyninenames.nintyninenames.app-mergeDebugResources-9:/values-ky/values-ky.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\DC\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\values-ky\\values-ky.xml",
+                    "source": "/Users/ghulamabbass/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res/values-ky/values-ky.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
