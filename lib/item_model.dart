@@ -4,7 +4,11 @@ class Item {
   final String nameEn;
   final String meaning;
 
-  Item({required this.id, required this.nameAr, required this.nameEn, required this.meaning});
+  Item(
+      {required this.id,
+      required this.nameAr,
+      required this.nameEn,
+      required this.meaning});
 
   factory Item.fromJson(Map<String, dynamic> json) {
     return Item(
